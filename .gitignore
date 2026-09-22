@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.env
+*.csv.gz
+data/*.parquet
+data/*.feather
+*.npz
+*.h5
